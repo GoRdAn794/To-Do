@@ -1,0 +1,28 @@
+.container-fluid
+{
+	height: auto;
+	width: 100%;
+}
+h1
+{
+	font-size: 20px;
+	color:#C70039 ;
+	padding-top: 2%;
+}
+.box
+{
+	height: auto;
+	width: auto;
+	text-decoration: line-through;
+}
+#do
+{
+	font-size: 67px;
+	color: black;
+	text-align: center;
+}
+#com
+{
+	color:#0F537C;
+	font-size: 20px;
+}
